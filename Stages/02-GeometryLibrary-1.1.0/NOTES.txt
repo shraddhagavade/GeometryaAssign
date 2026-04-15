@@ -1,0 +1,3 @@
+Small library improvement added and library updated to version 1.1.0.
+
+GeometryApp updated to the new GeometryLibrary version.

@@ -1,0 +1,7 @@
+Assignment completion summary
+
+GeometryLibrary final version: 1.1.0
+GeometryUtils final version: 1.1.0-SNAPSHOT
+ThreeDimensionalShapes final version: 1.1.0-SNAPSHOT
+
+Exact required progression is preserved in the Stages folder.

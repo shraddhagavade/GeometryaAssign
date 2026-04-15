@@ -1,0 +1,14 @@
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+.idea/
+.settings/
+.classpath
+.project
+
+*.log
+Thumbs.db
+desktop.ini

@@ -1,0 +1,3 @@
+Initial GeometryLibrary version 1.0.0 with circle, rectangle, and triangle.
+
+No dependency conflict at this stage.

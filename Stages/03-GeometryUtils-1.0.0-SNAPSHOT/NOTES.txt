@@ -1,0 +1,3 @@
+Added GeometryUtils module at version 1.0.0-SNAPSHOT and used it in GeometryApp.
+
+GeometryApp now depends on GeometryUtils directly.
